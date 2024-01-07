@@ -1,2 +1,2 @@
 # Go-Azzellz
-My first GoWorkSpace..
+记录一下自己用Go写的一些东西...
